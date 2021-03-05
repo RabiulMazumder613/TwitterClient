@@ -6,7 +6,7 @@ Time spent: 11 hours spent in total
 
 ## TwitterClient Part 2
 
-### User Stories 2
+### User Stories 
 
 The following **required** functionality is completed:
 
@@ -29,8 +29,6 @@ The following **optional** features are implemented:
 - [ ] When a user leaves the compose view without publishing and there is existing text, prompt to save or delete the draft. If saved, the draft should then be **persisted to disk** and can later be resumed from the compose view.
 - [ ] Enable your app to receive implicit intents from other apps. When a link is shared from a web browser, it should pre-fill the text and title of the web page when composing a tweet. 
 
-## TwitterClient Part 1
-
 ### Video Walkthrough 2
 
 Here's a walkthrough of implemented user stories:
@@ -39,7 +37,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## User Stories 1
+## TwitterClient Part 1
+
+### User Stories 
 
 The following **required** functionality is completed:
 
